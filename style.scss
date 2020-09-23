@@ -1,0 +1,16 @@
+.mainer {
+  max-width: 1280px;
+  padding: 0 15px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+
+  input {
+    padding: 5px 15px;
+    font-size: 14px;
+  }
+  #result {
+    font-size: 30px;
+    color: rgb(12, 131, 58);
+  }
+}
